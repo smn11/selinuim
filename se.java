@@ -6,7 +6,9 @@ public class se {
 System.out.println("hai");
 System.out.println("mohan");
 System.out.println("mohan");
-System.out.println("mohan");
+System.out.println("mohan")
+System.out.println("hai");
+System.out.println("hai");
 	}
 
 }
